@@ -1,0 +1,1 @@
+Get-Content worte_raw.txt | sort -unique | Out-File worte.txt
